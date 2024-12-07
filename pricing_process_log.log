@@ -1,0 +1,15 @@
+2024-12-07 16:28:26,709 - INFO - Starting the pricing process...
+2024-12-07 16:28:27,003 - INFO - Data loaded successfully.
+2024-12-07 16:28:27,004 - INFO - AmericanOptionPricer initialized.
+2024-12-07 16:28:27,004 - INFO - Starting put option pricing...
+2024-12-07 16:52:42,018 - INFO - Put option pricing completed.
+2024-12-07 16:52:45,170 - INFO - Starting call option pricing...
+2024-12-07 17:20:16,891 - INFO - Call option pricing completed.
+2024-12-07 17:20:21,612 - INFO - Priced data saved to E:\ML in Fin Lab\group_proj\American-Options-Pricing-NN-Tree-models-LSMC-\LSMC American Option Pricing\data\spy_eod_202312_priced.csv
+2024-12-07 17:20:21,615 - INFO - 
+Summary:
+2024-12-07 17:20:21,615 - INFO - Priced 70798 options using LSMC method
+2024-12-07 17:20:21,617 - INFO - Put MSE: 23.158118883424915
+2024-12-07 17:20:21,617 - INFO - Call MSE: 138.9011518648049
+2024-12-07 17:20:21,617 - INFO - Total execution time: 3114.61 seconds
+2024-12-07 17:20:21,617 - INFO - Average execution time per option: 0.04 seconds
